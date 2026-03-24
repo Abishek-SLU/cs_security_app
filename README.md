@@ -1,2 +1,1 @@
-# cs_security_app
-CS research project
+this repo contains API code
